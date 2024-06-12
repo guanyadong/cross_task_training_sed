@@ -21,7 +21,7 @@
 
 Run the command `python train_sed.py`  to train the model. 
 
-## Test the trainied model
+## Test the trained model
 
 
 Run the command `python train_sed.py --test_from_checkpoint YOUR_CHECKPOINT_PATH` to test the trained model. 

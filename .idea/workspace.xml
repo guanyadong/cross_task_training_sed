@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c84a0eb7-9860-423e-abfe-722b1c0f5868" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../vad_index/plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vad_index/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vad_index/vad_label_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../desed_task/evaluation/evaluation_measures.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../desed_task/evaluation/evaluation_measures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../desed_task/utils/encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../desed_task/utils/encoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../desed_task/utils/schedulers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../desed_task/utils/schedulers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcase2021_task4_baseline/confs/sed.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../dcase2021_task4_baseline/confs/sed.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcase2021_task4_baseline/generate_dcase_task4_2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dcase2021_task4_baseline/generate_dcase_task4_2021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcase2021_task4_baseline/local/sed_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dcase2021_task4_baseline/local/sed_trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcase2021_task4_baseline/local/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dcase2021_task4_baseline/local/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dcase2021_task4_baseline/train_sed.py" beforeDir="false" afterPath="$PROJECT_DIR$/../dcase2021_task4_baseline/train_sed.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2EvpjnK9tQBaIKBlkG28doecwie" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.train_sed_rct">
+    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dcase2021_task4_rct" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_sed_rct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dcase2021_task4_rct" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_sed_rct.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_sed_rct" />
+        <item itemvalue="Python.tmp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c84a0eb7-9860-423e-abfe-722b1c0f5868" name="Default Changelist" comment="" />
+      <created>1663486049451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663486049451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/local/sed_trainer_rct.py</url>
+          <line>424</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_sed_rct.py</url>
+          <line>202</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="labels_strong_vad" language="Python" />
+        <watch expression="vad_student_softmax.detach().cpu().numpy()" language="Python" />
+        <watch expression="vad_student_softmax_max.detach().cpu().numpy()" language="Python" />
+        <watch expression="max_index.detach().cpu().numpy()" language="Python" />
+        <watch expression="vad_student_tag.detach().cpu().numpy()" language="Python" />
+        <watch expression="strong_preds_student_sum_clamp.detach().cpu().numpy()" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,5 +1,6 @@
 # Sound Activity-aware Based Cross-task Collaborative Training for Semi-supervised Sound Event Detection
 
+![](https://img.shields.io/badge/license-MIT-green)
 
 ## Introduction
 

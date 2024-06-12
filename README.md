@@ -23,8 +23,7 @@ Run the command `python train_sed.py`  to train the model.
 
 ## Test the trained model
 
-
-Run the command `python train_sed.py --test_from_checkpoint YOUR_CHECKPOINT_PATH` to test the trained model. 
+We provide a trained model. The model can be tested using the following command: `python train_sed.py --test_from_checkpoint YOUR_CHECKPOINT_PATH`
 
 
 ## Contact

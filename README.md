@@ -26,4 +26,6 @@ Run the command `python train_sed.py`  to train the model.
 Run the command `python train_sed.py --test_from_checkpoint YOUR_CHECKPOINT_PATH` to test the trained model. 
 
 
-## Performance
+## Contact
+
+Please contact Yadong Guan at guanyadonghit@gmail.com for any query.

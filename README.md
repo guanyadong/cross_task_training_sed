@@ -10,7 +10,8 @@
 ## Get started
 
 
-1. To reproduce our experiments, please first ensure you have the DESED dataset. For downloading the dataset, please refer to https://github.com/DCASE-REPO/DESED_task/tree/master/recipes/dcase2023_task4_baseline
+1. To reproduce our experiments, please first ensure you have the DESED dataset. For downloading the dataset, please refer to 
+[DCASE Task 4 baseline](https://github.com/DCASE-REPO/DESED_task/tree/master/recipes/dcase2023_task4_baseline)
 
 2. Ensure you have the correct environment. The script `conda_create_environment.sh` is available to create an environment which runs the following code (recommended to run line by line in case of problems).
 

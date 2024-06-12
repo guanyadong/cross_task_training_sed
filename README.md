@@ -17,7 +17,7 @@
 3. Change all required paths in `confs/sed.yaml` to your own paths.
 
 
-## Modol training
+## Train Modol
 
 Run the command `python train_sed.py`  to train the model. 
 

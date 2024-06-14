@@ -30,6 +30,10 @@ We provide a [trained model](https://drive.google.com/file/d/1YSebKJ6gbGAri3wXPN
 
 ![alt text](./exp_results/result_on_valida.PNG "title")
 
+### Results of trained model uploaded on DESED Eval Public dataset:
+
+![alt text](./exp_results/result_on_evalpub.png "title")
+
 
 ## Contact
 

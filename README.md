@@ -5,8 +5,11 @@
 ## Introduction
 
  Briefly, we introduced a Sound Occurrence and Overlap Detection (SOD) task that captures patterns of sound activity to identify non-overlapping or overlapping sounds. And we propose a cross-task collaborative training framework that leverages the relationship between SED and SOD to improve semi-supervised training.
-
-<img src="./pic/framework.pdf" alt="alt text">
+ 
+<figure>
+ <img src="./pic/framwork.PNG" alt="alt text">
+ <figcaption>Fig. 1. Overall architecture of the proposed method. The superscripts s and t in the output results denote the student model and teacher model, respectively. During the test stage, the SOD branch can be omitted to reduce the computation and storage resources.</figcaption>
+</figure>
 
 ## Get started
 

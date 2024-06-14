@@ -28,9 +28,9 @@ We provide a [trained model](https://drive.google.com/file/d/1YSebKJ6gbGAri3wXPN
 
 ### Results of trained model uploaded on Validation dataset:
 
-<center>
+<div style="display: flex; justify-content: center;">
 <img src="./exp_results/result_on_valid.PNG" alt="alt text" width="400">
-</center>
+</div>
 
 ### Results of trained model uploaded on Eval Public dataset:
 

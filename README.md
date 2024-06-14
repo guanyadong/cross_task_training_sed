@@ -28,12 +28,12 @@ We provide a [trained model](https://drive.google.com/file/d/1YSebKJ6gbGAri3wXPN
 
 ### Results of trained model uploaded on DESED Validation dataset:
 
-<img src="./exp_results/result_on_valida.PNG" alt="alt text" style="max-width: 50px; max-height: 50px;" align=“center” title="title">
+<img src="./exp_results/result_on_valida.PNG" alt="alt text" width="600" height="600" align=“center” title="title">
 
 
 ### Results of trained model uploaded on DESED Eval Public dataset:
 
-<img src="./exp_results/result_on_evalpub.png" alt="alt text" width="60%" height="60%" align=“center” title="title">
+<img src="./exp_results/result_on_evalpub.png" alt="alt text" width="300" height="300" align=“center” title="title">
 
 
 ## Contact

@@ -8,7 +8,7 @@
  
 <figure>
  <img src="./pic/framwork.PNG" alt="alt text">
- <figcaption>Overall architecture of the proposed method. The superscripts s and t in the output results denote the student model and teacher model, respectively. During the test stage, the SOD branch can be omitted to reduce the computation and storage resources.</figcaption>
+ <figcaption>Fig. 1. Overall architecture of the proposed method. The superscripts s and t in the output results denote the student model and teacher model, respectively. During the test stage, the SOD branch can be omitted to reduce the computation and storage resources.</figcaption>
 </figure>
 
 ## Get started

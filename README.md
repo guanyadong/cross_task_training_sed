@@ -28,7 +28,7 @@ Run the command `python train_sed.py`  to train the model.
 
 ## Test the trained model
 
-We provide a [trained model](https://drive.google.com/file/d/1YSebKJ6gbGAri3wXPNEUHW2rKRGMg2nY/view?usp=sharing). The model can be tested using the following command: `python train_sed.py --test_from_checkpoint YOUR_CHECKPOINT_PATH`
+We provide a [trained model](https://drive.google.com/file/d/1llzQn8B5X62vySVSQbsI9NBxznmyuN5O/view?usp=sharing). The model can be tested using the following command: `python train_sed.py --test_from_checkpoint YOUR_CHECKPOINT_PATH`
 
 ### Results of trained model uploaded on Validation dataset:
 

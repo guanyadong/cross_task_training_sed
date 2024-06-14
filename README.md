@@ -26,6 +26,10 @@ Run the command `python train_sed.py`  to train the model.
 
 We provide a [trained model](https://drive.google.com/file/d/1YSebKJ6gbGAri3wXPNEUHW2rKRGMg2nY/view?usp=sharing). The model can be tested using the following command: `python train_sed.py --test_from_checkpoint YOUR_CHECKPOINT_PATH`
 
+### Results of trained model uploaded on DESED Validation dataset:
+
+![image](https://github.com/guanyadong/cross_task_training_sed/assets/49951184/67637018-41c3-4176-ab2e-265fe22b67f0)
+
 
 ## Contact
 

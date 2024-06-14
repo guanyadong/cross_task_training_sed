@@ -28,8 +28,8 @@ We provide a [trained model](https://drive.google.com/file/d/1YSebKJ6gbGAri3wXPN
 
 ### Results of trained model uploaded on Validation dataset:
 
-<div style="display: flex; justify-content: center;">
-<img src="./exp_results/result_on_valid.PNG" alt="alt text" width="400">
+<div style="text-align: center;">
+ <img src="./exp_results/result_on_valid.PNG" alt="alt text" width="400">
 </div>
 
 ### Results of trained model uploaded on Eval Public dataset:

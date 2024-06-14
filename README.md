@@ -28,11 +28,11 @@ We provide a [trained model](https://drive.google.com/file/d/1YSebKJ6gbGAri3wXPN
 
 ### Results of trained model uploaded on DESED Validation dataset:
 
-<img src="[https://img-blog.csdnimg.cn/b937aa6a992d47d9b205f519bcbbc111.png](https://github.com/guanyadong/cross_task_training_sed/assets/49951184/67637018-41c3-4176-ab2e-265fe22b67f0)"  width="600" />
+<img src="./exp_results/result_on_valida.PNG" alt="alt text" width="400" align=“center”>
 
+### Results of trained model uploaded on DESED Eval Public dataset:
 
-![image](https://github.com/guanyadong/cross_task_training_sed/assets/49951184/67637018-41c3-4176-ab2e-265fe22b67f0=600x)
-![sed1](https://github.com/guanyadong/cross_task_training_sed/assets/49951184/af779fbf-8c68-4597-8ab1-e1b6e43d02dc)
+<img src="./exp_results/result_on_evalpub.png" alt="alt text" width="400" align=“center”>
 
 
 ## Contact

@@ -28,7 +28,7 @@ We provide a [trained model](https://drive.google.com/file/d/1YSebKJ6gbGAri3wXPN
 
 ### Results of trained model uploaded on DESED Validation dataset:
 
-![alt text](/exp_results/result_on_valida.png "title")
+![alt text](./exp_results/result_on_valida.PNG "title")
 
 
 ## Contact

@@ -26,11 +26,11 @@ Run the command `python train_sed.py`  to train the model.
 
 We provide a [trained model](https://drive.google.com/file/d/1YSebKJ6gbGAri3wXPNEUHW2rKRGMg2nY/view?usp=sharing). The model can be tested using the following command: `python train_sed.py --test_from_checkpoint YOUR_CHECKPOINT_PATH`
 
-### Results of trained model uploaded on DESED Validation dataset:
+### Results of trained model uploaded on Validation dataset:
 
 <img src="./exp_results/result_on_valid.PNG" alt="alt text" width="400" align=“center”>
 
-### Results of trained model uploaded on DESED Eval Public dataset:
+### Results of trained model uploaded on Eval Public dataset:
 
 <img src="./exp_results/result_on_eval.png" alt="alt text" width="400" align=“center”>
 
